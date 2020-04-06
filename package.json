@@ -1,0 +1,25 @@
+{
+  "name": "Express-Js-Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HammacheAbir/Express-Js-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HammacheAbir/Express-Js-Server/issues"
+  },
+  "homepage": "https://github.com/HammacheAbir/Express-Js-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "uuid": "^7.0.3"
+  }
+}
